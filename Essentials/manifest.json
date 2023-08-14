@@ -12,7 +12,7 @@
       "version": "1.0",
       "icon": "Icons/Notification.png",
       "path": "Tweaks/ca.bomberfish.bannerbg.picasso"
-    }
+    },
     {
       "name": "Notification Banner Shadow",
       "bundleid": "ca.bomberfish.bannershadow",
@@ -21,7 +21,7 @@
       "version": "1.0",
       "icon": "Icons/Notification.png",
       "path": "Tweaks/ca.bomberfish.bannershadow.picasso"
-    }
+    },
     {
       "name": "Control Center BG",
       "bundleid": "ca.bomberfish.ccbg",
@@ -30,7 +30,7 @@
       "version": "1.0",
       "icon": "Icons/ControlCenter.png",
       "path": "Tweaks/ca.bomberfish.ccbg.picasso"
-    }
+    },
     {
       "name": "Control Center Tile",
       "bundleid": "ca.bomberfish.cctile",
@@ -39,7 +39,7 @@
       "version": "1.0",
       "icon": "Icons/ControlCenter.png",
       "path": "Tweaks/ca.bomberfish.cctile.picasso"
-    }
+    },
     {
       "name": "Dock",
       "bundleid": "ca.bomberfish.dock",
@@ -48,7 +48,7 @@
       "version": "1.0",
       "icon": "Icons/Dock.png",
       "path": "Tweaks/ca.bomberfish.dock.picasso"
-    }
+    },
     {
       "name": "Folder",
       "bundleid": "ca.bomberfish.folder",
