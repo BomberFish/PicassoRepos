@@ -1,0 +1,62 @@
+{
+  "spec": "1.0",
+  "name": "Picasso Essentials",
+  "description": "Basic Tweaks to get you started!",
+  "icon": "RepoIcon.png", 
+  "packages": [
+    {
+      "name": "Notification Banner Background",
+      "bundleid": "ca.bomberfish.bannerbg",
+      "author": "BomberFish",
+      "description": "Changes the color of Notification Banners.",
+      "version": "1.0",
+      "icon": "Icons/Notification.png",
+      "path": "Tweaks/ca.bomberfish.bannerbg.picasso"
+    }
+    {
+      "name": "Notification Banner Shadow",
+      "bundleid": "ca.bomberfish.bannershadow",
+      "author": "BomberFish",
+      "description": "Changes the color of the shadows behind Notification Banners.",
+      "version": "1.0",
+      "icon": "Icons/Notification.png",
+      "path": "Tweaks/ca.bomberfish.bannershadow.picasso"
+    }
+    {
+      "name": "Control Center BG",
+      "bundleid": "ca.bomberfish.ccbg",
+      "author": "BomberFish",
+      "description": "Changes Control Center background.",
+      "version": "1.0",
+      "icon": "Icons/ControlCenter.png",
+      "path": "Tweaks/ca.bomberfish.ccbg.picasso"
+    }
+    {
+      "name": "Control Center Tile",
+      "bundleid": "ca.bomberfish.cctile",
+      "author": "BomberFish",
+      "description": "Changes the color of Control Center Tiles.",
+      "version": "1.0",
+      "icon": "Icons/ControlCenter.png",
+      "path": "Tweaks/ca.bomberfish.cctile.picasso"
+    }
+    {
+      "name": "Dock",
+      "bundleid": "ca.bomberfish.dock",
+      "author": "BomberFish",
+      "description": "Changes the color of the Dock.",
+      "version": "1.0",
+      "icon": "Icons/Dock.png",
+      "path": "Tweaks/ca.bomberfish.dock.picasso"
+    }
+    {
+      "name": "Folder",
+      "bundleid": "ca.bomberfish.folder",
+      "author": "BomberFish",
+      "description": "Changes the color of Folders on the Home Screen.",
+      "version": "1.0",
+      "icon": "Icons/Folder.png",
+      "path": "Tweaks/ca.bomberfish.folder.picasso"
+    }
+  ]
+}

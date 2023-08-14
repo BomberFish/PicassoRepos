@@ -1,0 +1,9 @@
+{
+  "operations" : [
+    {
+      "type" : "springboardColor",
+      "springboardElement" : "cctile"
+    }
+  ],
+  "spec" : "1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "operations" : [
+    {
+      "type" : "springboardColor",
+      "springboardElement" : "folder"
+    }
+  ],
+  "spec" : "1.0"
+}

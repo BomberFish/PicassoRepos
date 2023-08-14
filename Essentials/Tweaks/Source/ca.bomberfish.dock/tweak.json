@@ -1,0 +1,9 @@
+{
+  "operations" : [
+    {
+      "type" : "springboardColor",
+      "springboardElement" : "dock"
+    }
+  ],
+  "spec" : "1.0"
+}

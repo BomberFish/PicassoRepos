@@ -1,0 +1,9 @@
+{
+  "operations" : [
+    {
+      "type" : "springboardColor",
+      "springboardElement" : "bannershadow"
+    }
+  ],
+  "spec" : "1.0"
+}
