@@ -57,6 +57,15 @@
       "version": "1.0",
       "icon": "Icons/Folder.png",
       "path": "Tweaks/ca.bomberfish.folder.picasso"
+    },
+    {
+      "name": "Dynamic Island",
+      "bundleid": "ca.bomberfish.DynamicIsland",
+      "author": "Picasso Team",
+      "description": "Enable Dynamic Island on any device!",
+      "version": "1.0",
+      "icon": "Icons/DynamicIsland.png",
+      "path": "Tweaks/ca.bomberfish.DynamicIsland.picasso"
     }
   ]
 }
