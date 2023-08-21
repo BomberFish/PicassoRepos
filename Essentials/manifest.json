@@ -9,7 +9,7 @@
       "bundleid": "ca.bomberfish.bannerbg",
       "author": "Picasso Team",
       "description": "Changes the color of Notification Banners.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/Notification.png",
       "path": "Tweaks/ca.bomberfish.bannerbg.picasso"
     },
@@ -18,7 +18,7 @@
       "bundleid": "ca.bomberfish.bannershadow",
       "author": "Picasso Team",
       "description": "Changes the color of the shadows behind Notification Banners.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/Notification.png",
       "path": "Tweaks/ca.bomberfish.bannershadow.picasso"
     },
@@ -27,7 +27,7 @@
       "bundleid": "ca.bomberfish.ccbg",
       "author": "Picasso Team",
       "description": "Changes Control Center background.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/ControlCenter.png",
       "path": "Tweaks/ca.bomberfish.ccbg.picasso"
     },
@@ -36,7 +36,7 @@
       "bundleid": "ca.bomberfish.cctile",
       "author": "Picasso Team",
       "description": "Changes the color of Control Center Tiles.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/ControlCenter.png",
       "path": "Tweaks/ca.bomberfish.cctile.picasso"
     },
@@ -45,7 +45,7 @@
       "bundleid": "ca.bomberfish.dock",
       "author": "Picasso Team",
       "description": "Changes the color of the Dock.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/Dock.png",
       "path": "Tweaks/ca.bomberfish.dock.picasso"
     },
@@ -54,7 +54,7 @@
       "bundleid": "ca.bomberfish.folder",
       "author": "Picasso Team",
       "description": "Changes the color of Folders on the Home Screen.",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/Folder.png",
       "path": "Tweaks/ca.bomberfish.folder.picasso"
     },
@@ -63,7 +63,7 @@
       "bundleid": "ca.bomberfish.DynamicIsland",
       "author": "Picasso Team",
       "description": "Enable Dynamic Island on any device!",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/DynamicIsland.png",
       "path": "Tweaks/ca.bomberfish.DynamicIsland.picasso"
     }
