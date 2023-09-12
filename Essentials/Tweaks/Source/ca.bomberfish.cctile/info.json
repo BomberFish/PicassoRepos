@@ -1,6 +1,6 @@
 {
-  "version" : "1.0",
-  "author" : "BomberFish",
+  "version" : "1.1",
+  "author" : "Picasso Team",
   "name" : "Control Center Tile",
   "bundleID" : "ca.bomberfish.cctile"
 }

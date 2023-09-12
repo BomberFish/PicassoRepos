@@ -5,6 +5,12 @@
       "key" : "color",
       "title" : "Color",
       "description" : "Changes color of this UI element to the specified color. Supports opacity."
+    },
+    {
+      "valueType" : "int",
+      "key" : "blur",
+      "title" : "Blur",
+      "description" : "Changes blur of this UI element if applicable. Set to 0 to remove the blur completely."
     }
   ]
 }
