@@ -1,0 +1,17 @@
+{
+  "spec": "1.0",
+  "name": "Cabin Fever",
+  "description": "Highly experimental repo with the latest and greatest in Picasso tweaks.",
+  "icon": "RepoIcon.png",
+  "packages": [
+    {
+      "name": "My fonts",
+      "bundleid": "ca.bomberfish.myfonts",
+      "author": "BomberFish Industries",
+      "description": "Fonts I use.",
+      "version": "1.0",
+      "icon": "Icons/Notification.png",
+      "path": "Tweaks/ca.bomberfish.myfonts.picasso"
+    }
+  ]
+}
