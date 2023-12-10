@@ -62,7 +62,7 @@
       "name": "Dynamic Island",
       "bundleid": "ca.bomberfish.DynamicIsland",
       "author": "Picasso Team",
-      "description": "Enable Dynamic Island on any device!",
+      "description": "Enable Dynamic Island on any device!\n\nWARNING: DO NOT use on iOS 15 as it will cause a bootloop! iOS 16 and higher is fine.",
       "version": "1.1",
       "icon": "Icons/DynamicIsland.png",
       "path": "Tweaks/ca.bomberfish.DynamicIsland.picasso"
